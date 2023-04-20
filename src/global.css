@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Sharp+Grotesk:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+  background-color: #1f1b1b;
+  color: white;
+}
+:root {
+  /* fonts */
+  --title19bold: "Sharp Grotesk";
+
+  /* font sizes */
+  --title4bold-size: 0.88rem;
+  --title19bold-size: 0.75rem;
+  --title19bold1-size: 1.19rem;
+
+  /* Colors */
+  --text-high: #fafafa;
+  --cont-card-onsurface1: #1a1a1a;
+  --cont-card-onsurface: #111;
+  --color-gray-100: rgba(0, 0, 0, 0.5);
+  --text-medium: #a2a2a2;
+  --activities-sold: #ffc148;
+  --color-white: #fff;
+  --sem-success-onsurface: #19ed7b;
+
+  /* Gaps */
+  --gap-13xl: 2rem;
+  --gap-5xs: 0.5rem;
+  --gap-base: 1rem;
+  --gap-xs: 0.75rem;
+  --gap-11xs: 0.13rem;
+  --gap-9xs: 0.25rem;
+  --gap-44xl: 3.94rem;
+  --gap-5xl: 1.5rem;
+
+  /* Paddings */
+  --padding-base: 1rem;
+  --padding-xs: 0.75rem;
+  --padding-18xl: 2.31rem;
+  --padding-7xs: 0.38rem;
+  --padding-3xs: 0.63rem;
+  --padding-9xs: 0.25rem;
+  --padding-5xs: 0.5rem;
+  --padding-12xs: 0.06rem;
+  --padding-8xl: 1.69rem;
+
+  /* border radiuses */
+  --br-base: 16px;
+  --br-5xl: 24px;
+  --br-21xl: 40px;
+  --br-5xs: 8px;
+  --br-25xl: 44px;
+  --br-12xl: 31px;
+  --br-9xs: 4px;
+  --br-lgi: 19px;
+}
